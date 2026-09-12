@@ -8,7 +8,7 @@
 }
 
 .project-item a:hover {
-    filter: brightness(90%);
+    background-color: beige;
 }
 
 .project-item-subcontainer {
@@ -26,5 +26,5 @@
 }
 
 .project-item-images img {
-    padding: 1em;
+    margin: auto;
 }

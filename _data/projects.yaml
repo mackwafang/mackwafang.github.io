@@ -1,0 +1,7 @@
+projects:
+  - mackbot:
+    name: mackbot
+    description: A World of Warships encyclopedia Discord bot
+  - project-rf:
+    name: project-rf
+    description: A prototype racing game
