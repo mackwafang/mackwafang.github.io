@@ -34,7 +34,7 @@ project_email: true
 plugins:
   - jekyll-feed
 
-include: ["_pages", "_includes"]
+include: ["_includes"]
 
 collections:
   projects:
