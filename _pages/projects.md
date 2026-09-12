@@ -9,7 +9,6 @@ permalink: /projects/
 
 {% for project in site.data.projects.projects %}
 {% assign project_page = site.projects | where: "title", project.name | first %}
-
 <div class="project-item">
     <a href="{{ project_page.url }}">
         <div class="project-item-subcontainer">

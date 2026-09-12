@@ -36,32 +36,10 @@ plugins:
 
 include: ["_pages", "_includes"]
 
-scholar:
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  bibtex_filters: [latex, smallcaps, superscript]
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_link: Details
-
-  query: "@*"
-  group_by: year
-  group_order: descending
-
 collections:
   projects:
     output: true
 
-plugins:
-  - jekyll/scholar
 
 # Exclude from processing.
 # The following items will not be processed, by default.
