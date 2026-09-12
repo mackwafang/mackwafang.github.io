@@ -1,0 +1,30 @@
+.project-item a {
+    display: flex;
+    border: 3px solid black;
+    border-radius: 1em 1em;
+    padding: 1em;
+    margin: 1em;
+    background-color: #f5f5dc;
+}
+
+.project-item a:hover {
+    filter: brightness(90%);
+}
+
+.project-item-subcontainer {
+    width: 70%;
+}
+
+.project-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.project-item-images {
+    display: flex;
+    width: 30%;
+}
+
+.project-item-images img {
+    padding: 1em;
+}
