@@ -5,3 +5,13 @@ projects:
   - project-rf:
     name: project-rf
     description: A prototype racing game
+  - Blue Prince Helper:
+    name: blue_prince_44_puzzle_helper
+    description: A tool to assist with the rougelite puzzle game Blue Prince
+  - Tankers:
+    name: LowResJam2017
+    description: A 2017 LowRezJam Game
+  - Death Counter:
+    name: Souls-Games-Auto-Death-Counter
+    description: A death counter for Elden Ring with an front-end for OBS.
+  
