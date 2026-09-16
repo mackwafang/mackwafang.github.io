@@ -1,4 +1,7 @@
 projects:
+  - Real Time Arrythmia CNN:
+    name: real-time-arrythmia-cnn
+    description: A death counter for Elden Ring with an front-end for OBS.
   - mackbot:
     name: mackbot
     description: A World of Warships encyclopedia Discord bot
